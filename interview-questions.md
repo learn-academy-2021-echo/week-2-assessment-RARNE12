@@ -24,7 +24,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 3. What is object destructuring?
 
-  Your answer: Object destructuring breaks down values and create new varialbels, assigns them in a single assignment. 
+  Your answer: Object destructuring breaks down values and create new variabels, assigns them in a single assignment. 
 
   Researched answer:  A way of creating new variables by breaking down a values into indivdual variables, and assigns them as single assignments; requires variable names [] and an equal number of values. 
 
@@ -57,11 +57,11 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Research and define the following terms to the best of your ability.
 
-1. Class Inheritance: Information that is pass down between a "parent-child" relationship within a code via inheritance to keep the code from being repetivie. 
+1. Class Inheritance: Information that is pass down between a "parent-child" classes within a code via inheritance to keep the code from being repetivie. 
 
 2. React: A declarative, efficient, and flexible JavaScript library for building user interfaces; maintained by Facebook.
 
-3. React state: State is a plain JavaScript object used by React to represent an information about the component's current situation. It's managed in the component (just like any variable declared in a function).
+3. React state: State is a plain JavaScript object used by React to represent nformation about the component's current situation. It's managed in the component (just like any variable declared in a function).
 s:
 4. React lifecycle method: Special build-in methods in React. It is used to operate on compoinents throughout their duration in the Document Object Model (DOM) 
 
